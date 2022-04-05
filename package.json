@@ -1,0 +1,25 @@
+{
+    "name": "codeskulptor",
+    "displayName": "CodeSkulptor3 Theme",
+    "description": "Bring the CodeSkulptor3 color theme to VSCode! ",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.66.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "CodeSkulptor3",
+                "uiTheme": "vs-dark",
+                "path": "./themes/CodeSkulptor3-color-theme.json"
+            }
+        ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/npm/cli.git"
+    }
+}
