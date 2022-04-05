@@ -1124,6 +1124,13 @@
 				"foreground": "#4FFA7B",
 				"fontStyle": ""
 			}
+		},
+		{
+			"scope": "support.type",
+			"settings": {
+				"foreground": "#4FFA7B",
+				"fontStyle": ""
+			}
 		}
 	]
 }

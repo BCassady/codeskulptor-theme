@@ -1,8 +1,9 @@
 {
     "name": "codeskulptor",
+    "publisher": "BCassady",
     "displayName": "CodeSkulptor3 Theme",
-    "description": "Bring the CodeSkulptor3 color theme to VSCode! ",
-    "version": "0.0.1",
+    "description": "Bring the CodeSkulptor3 color theme to VSCode!",
+    "version": "0.0.4",
     "engines": {
         "vscode": "^1.66.0"
     },
@@ -21,5 +22,6 @@
     "repository": {
         "type": "git",
         "url": "https://github.com/npm/cli.git"
-    }
+    },
+    "icon": "rice.png"
 }
